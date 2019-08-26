@@ -3,3 +3,16 @@
  * purpose: styles, animation etc
  * further development: meyer reset perhaps?
  **/
+img{
+  width: 50%;
+}
+
+h2{
+  border-style: double;
+  border-width: 5px;
+  background-color: red;
+}
+
+p, li{
+  
+}
